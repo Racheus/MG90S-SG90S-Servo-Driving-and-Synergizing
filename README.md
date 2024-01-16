@@ -10,7 +10,7 @@
 
 但我并不想就此以“遗憾”作罢。我希望能从这学期不多的经验里吸取经验，**让犯的错反省出梦想**。为此，我决定写下这个项目。感谢我的组员们提供的支持让我能全身心投入这个方向的探究。
 
-<img src="https://github.com/Racheus/MG90S-SG90S-Servo-Driving-and-Synergizing/blob/main/Images/Frog.jpg"  width="400" height="350" />
+<img src="https://github.com/Racheus/MG90S-SG90S-Servo-Driving-and-Synergizing/blob/main/Images/Frog.jpg" align="center" width="400" height="350" />
 
 *再看，再看把你吃了*
 
