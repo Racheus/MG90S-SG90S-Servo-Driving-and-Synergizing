@@ -1,2 +1,7 @@
 # MG90S-SG90S-Servo-Driving-and-Synergizing
-This was a spur-of-the-moment inspiration for me, and based on this semester's painful course design（Design and Manufacturing II）, I want to make this detail visible to a wider audience.
+### Racheus Zhao
+#### School of Mechanic Enginnering , SJTU
+#### 2023-2024-1 Winter
+
+---
+本学期笔者的专业有一门备受诟病的课程《设计与制造II》(Design and Manufacturing II , ME3220)。课程项目是做一只能弹跳的青蛙。
