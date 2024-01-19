@@ -29,4 +29,6 @@
 
 ### MATLAB 舵机控制
 
-[Click here to MATLAB_Servo_Controling](Install&Initializing/MATLAB_Initialize.md)
+(基础控制 Basic Control)[Click here to MATLAB_Servo_Controling](Install&Initializing/MATLAB_Initialize.md)
+
+(随动控制 follower control)[Click here to MATLAB_Servo——Follower_Controling](./MATLAB_Servo_Follower_Control.md)
