@@ -2,4 +2,4 @@
 
 根据自己的需求选择板子型号和对应端口（笔者是Uno和COM6）：
 
-!(Insert Error)[../Images/set.png]
+!(Insert Error)[Images/set.png]
