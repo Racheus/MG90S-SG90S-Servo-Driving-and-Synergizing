@@ -25,7 +25,9 @@
 *————Eason《明年今日》*
 
 ---
+demo:
 
+https://github.com/Racheus/MG90S-SG90S-Servo-Driving-and-Synergizing/issues/1#issue-2090190476
 
 ### MATLAB 舵机控制
 
