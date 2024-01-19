@@ -6,4 +6,4 @@
 
 先控制`Servo1`的移动，再用`readPosition()`读取角度值传入`Servo2`，实现随动目标，大致效果如下：
 
-![Insert Error!](../Image/follow.png)
+![Insert Error!](../Images/follow.png)
