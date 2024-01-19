@@ -33,5 +33,9 @@
 
 (随动控制 follower control)[Click here to MATLAB_Servo_Follower_Controling](MATLAB_Servo_Follower_Control.m)
 
-其实两个多级的协同是做得很好的。
+其实两个舵机的协同是做得很好的。
+
 ![Insert error!](Images/follow.png)
+
+
+### Simulink 舵机控制
