@@ -27,7 +27,7 @@
 ---
 demo:
 
-https://github.com/Racheus/MG90S-SG90S-Servo-Driving-and-Synergizing/issues/1#issue-2090190476
+https://github.com/Racheus/MG90S-SG90S-Servo-Driving-and-Synergizing/assets/119780682/9c88ab42-78c1-4a14-825d-9d2fbc6ccaf0
 
 ### MATLAB 舵机控制
 
